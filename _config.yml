@@ -1,0 +1,20 @@
+# Site settings
+title: Yéil Learning
+description: Yéil Learning books
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.yeillearning.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# Build settings
+safe: true # always trues on github-pages, disables _plugins/
+markdown: kramdown
+sass:
+  indentWidth: 4
+  style: compact
+  precision: 10
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/**
