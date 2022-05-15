@@ -1,0 +1,9 @@
+contacts:
+
+  - contact: twitter
+    link: "https://twitter.com/yeillearning"
+    image: "assets/img/contacts/twitter.png"
+
+  - contact: patreon
+    link: "https://www.patreon.com/yeillearning"
+    image: "assets/img/contacts/patreon.png"

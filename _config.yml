@@ -2,7 +2,7 @@
 title: Yéil Learning
 description: Yéil Learning books
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.yeillearning.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://www.yeillearning.com" # the base hostname & protocol for your site
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/

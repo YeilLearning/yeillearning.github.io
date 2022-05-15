@@ -1,0 +1,119 @@
+body {
+    background-color: #F8F8FF;
+}
+
+h1 {
+    font-size: 36pt;
+    font-weight: 500;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+a {
+    color: #7575FF;
+}
+
+a:hover {
+    color: #473198;
+}
+
+.content {
+    width: 90%;
+    margin: auto;
+}
+
+/*header*/
+
+.page-header {
+    margin: 30px;
+}
+
+.page-image {
+    display: inline-block;
+    max-height: 100px;
+    vertical-align: middle;
+    margin: 0px 10px;
+}
+
+.page-title {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 50pt;
+    vertical-align: middle;
+    margin: 0px 10px;
+}
+
+.page-spanner {
+    height: 5px;
+    background-color: #000000FF;
+    margin: 25px 0;
+}
+
+/*books*/
+
+.books {
+    margin-bottom: 10px;
+}
+
+.book {
+    margin: 30px;
+}
+
+.book-cover {
+    display: block;
+    max-width: 250px;
+    margin: 20px 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*inline border text for books*/
+
+fieldset {
+    margin: 10px;
+}
+
+legend {
+    font-weight: 550;
+    float: none;
+    width: auto;
+    margin: auto; 
+    padding: 0 10px; 
+} 
+
+#fieldset-draft {
+    border: 3px solid #EF8275;
+}
+
+#legend-draft {
+    color: #EF8275;
+}
+
+#fieldset-published {
+    border: 3px solid transparent;
+}
+
+#legend-published {
+    color: transparent;
+}
+
+#span-draft {
+    color: #EF8275;
+    font-weight: 550;
+}
+
+/*contacts*/
+
+.contact-image {
+    display: block;
+    height: 60px;
+    margin: 20px 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contacts {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+

@@ -1,0 +1,13 @@
+books:
+
+  - title: "Self Study: Calculus - Single Variable"
+    abstract: "The first book of the Self Study series. It focuses on introducing Calculus in an intuitive way that can be easily understood."
+    image: "assets/img/books/book_placeholder.png"
+    series: "Self Study"
+    draft: true
+
+  - title: "Learning Programming for Science"
+    abstract: "This book is geared towards teaching undergraduate or graduate students how to program for science and engineering applications."
+    image: "assets/img/books/book_placeholder.png"
+    series: ""
+    draft: true
