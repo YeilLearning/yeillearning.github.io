@@ -1,5 +1,6 @@
 body {
     background-color: #F8F8FF;
+    font-family: 'Roboto', 'sans-serif';
 }
 
 h1 {
@@ -37,10 +38,12 @@ a:hover {
 
 .page-title {
     display: inline-block;
+    font-family: 'Vollkorn', serif;
     font-weight: bold;
     font-size: 50pt;
     vertical-align: middle;
     margin: 0px 10px;
+    padding-top: 10px;
 }
 
 .page-spanner {
